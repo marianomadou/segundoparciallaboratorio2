@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1530307336 source:c:\test\mmadou\mmadou_segundo_parcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530307371 c:\test\mmadou\mmadou_segundo_parcial\arraylist.h
+
+1530307723 source:c:\test\mmadou\mmadou_segundo_parcial\funciones.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1530307977 c:\test\mmadou\mmadou_segundo_parcial\funciones.h
+	"funciones.h"
+	"ArrayList.h"
+
+1530307937 source:c:\test\mmadou\mmadou_segundo_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
